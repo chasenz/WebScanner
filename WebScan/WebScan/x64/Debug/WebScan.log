@@ -1,0 +1,11 @@
+﻿  WebScan.cpp
+c:\users\zhang\source\repos\webscan\webscan\getopt.h(59): warning C4081: 应输入“newline”；找到“;”
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(12551): error C2467: 非法的匿名“struct”声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(20084): error C2133: “_IMAGE_POLICY_METADATA::Policies”: 未知的大小
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ncrypt.h(335): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(3486): error C2467: 非法的匿名“struct”声明
+c:\users\zhang\source\repos\webscan\webscan\getopt.h(119): error C2335: “option”: 函数参数列表中不能引入的类型
+c:\users\zhang\source\repos\webscan\webscan\printfunction.h(61): error C2084: 函数“void printSuccNoLine(char *)”已有主体
+  c:\users\zhang\source\repos\webscan\webscan\printfunction.h(49): note: 参见“printSuccNoLine”的前一个定义
+c:\users\zhang\source\repos\webscan\webscan\webscan.cpp(227): error C2264: “printSuccNoLine”: 函数定义或声明中有错误；未调用函数
+c:\users\zhang\source\repos\webscan\webscan\webscan.cpp(284): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据

@@ -1,0 +1,3 @@
+﻿  WebScan.cpp
+c:\users\zhang\source\repos\webscan\webscan\getopt.h(59): warning C4081: 应输入“newline”；找到“;”
+  WebScan.vcxproj -> C:\Users\zhang\source\repos\WebScan\Debug\WebScan.exe
